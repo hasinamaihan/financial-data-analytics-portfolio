@@ -45,7 +45,7 @@ You can explore the live dashboard and analysis here:
 
 ![Performance Chart](https://drive.google.com/file/d/1fgo6oK51gzdI7Z8ZChZoIGMKQSc5XCfK/view?usp=sharing)
 
-![Growth Chart](Financial Growth - 2024, 2023 and 2022.png)
+![Growth Chart](https://drive.google.com/file/d/12JzOcoYf2FiZEh4VRn5w1vLw3ihw7RLe/view?usp=drive_link))
 
 ![Leverage Chart](https://drive.google.com/file/d/1z0kHUPC8hG3s_efexTRkA45CuMKNcho8/view?usp=sharing)
 
