@@ -41,14 +41,10 @@ You can explore the live dashboard and analysis here:
 
 ## Charts Preview
 
-![Profitability Chart](https://drive.google.com/file/d/1_55pu1FopGdwwgt6MKuZmnptSAPrWRrp/view?usp=sharing)
-
-![Performance Chart](https://drive.google.com/file/d/1fgo6oK51gzdI7Z8ZChZoIGMKQSc5XCfK/view?usp=sharing)
-
-![Growth Chart](https://drive.google.com/file/d/12JzOcoYf2FiZEh4VRn5w1vLw3ihw7RLe/view?usp=drive_link))
-
-![Leverage Chart](https://drive.google.com/file/d/1z0kHUPC8hG3s_efexTRkA45CuMKNcho8/view?usp=sharing)
-
+![Profitability Chart](https://drive.google.com/file/d/1_55pu1FopGdwwgt6MKuZmnptSAPrWRrp/view?usp=drive_link)
+![Performance Chart](https://drive.google.com/file/d/1fgo6oK51gzdI7Z8ZChZoIGMKQSc5XCfK/view?usp=drive_link)
+![Growth Chart](https://drive.google.com/file/d/12JzOcoYf2FiZEh4VRn5w1vLw3ihw7RLe/view?usp=drive_link)
+![Leverage Chart](https://drive.google.com/file/d/1z0kHUPC8hG3s_efexTRkA45CuMKNcho8/view?usp=drive_link)
 ---
 
 ## Tools & Skills Demonstrated
