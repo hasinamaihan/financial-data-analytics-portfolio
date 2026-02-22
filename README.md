@@ -60,7 +60,7 @@ You can explore the live dashboard and analysis here:
 
 1. Open the **Excel Dashboard** to explore interactive charts and ratios.  
 2. Review the **PDF report** for a narrative explanation and insights.  
-3. Optional: Access **raw data** in the `Raw_Data` folder to verify calculations or reuse for analysis.
+3. Optional: Access **raw data** ![Here](https://drive.google.com/drive/folders/1maxzdILFhFIGRGNMeT7fG-GhUePoOLRp?usp=drive_link) to verify calculations or reuse for analysis.
 
 ---
 
