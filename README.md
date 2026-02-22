@@ -40,7 +40,8 @@ This project highlights my skills in **financial analysis, Excel modeling, and d
 
 ## Dashboard Preview
 
-*(Add screenshots here for quick visual reference)*
+You can explore the live dashboard and analysis here:  
+👉 [https://docs.google.com/spreadsheets/d/XXXXXXXX](https://docs.google.com/spreadsheets/d/15wVc8RLtjS7PbA2DPH8zee7_ZyHlpGb2/edit?gid=327941851#gid=327941851)
 
 ![Profitability Chart](<img width="504" height="306" alt="Profitability - 2024, 2023 and 2022" src="https://github.com/user-attachments/assets/a4391edb-a69d-4923-ab6e-e2a764e6463b" />
 )  
