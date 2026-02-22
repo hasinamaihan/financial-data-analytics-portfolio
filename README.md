@@ -12,7 +12,7 @@ This project highlights my skills in **financial analysis, Excel modeling, and d
 | File / Folder | Description |
 |---------------|-------------|
 - 📊 Interactive Financial Dashboard (Google Sheets): [View Dashboard]([https://docs.google.com/spreadsheets/d/abc123](https://docs.google.com/spreadsheets/d/15wVc8RLtjS7PbA2DPH8zee7_ZyHlpGb2/edit?gid=327941851#gid=327941851))
-- 📄 Financial Analysis Report (PDF): [financial-analysis](https://drive.google.com/drive/u/4/folders/1pkuOr90LhDfinb7Iv1JAbyHLYShl0LX8).pdf
+- 📄 Financial Analysis Report (PDF): [financial-analysis]([https://drive.google.com/drive/u/4/folders/1pkuOr90LhDfinb7Iv1JAbyHLYShl0LX8](https://drive.google.com/file/d/1MA42bnTgmQHE0AqA0x7hALHvzm1FmbMY/view?usp=sharing)).pdf
 - 🖼️ Dashboard Preview: images/dashboard.png
 
 ---
