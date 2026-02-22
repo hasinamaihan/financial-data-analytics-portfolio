@@ -36,18 +36,18 @@ This project highlights my skills in **financial analysis, Excel modeling, and d
 ---
 
 ## Dashboard Preview
-
 You can explore the live dashboard and analysis here:  
-👉 [https://docs.google.com/spreadsheets/d/XXXXXXXX](https://docs.google.com/spreadsheets/d/15wVc8RLtjS7PbA2DPH8zee7_ZyHlpGb2/edit?gid=327941851#gid=327941851)
+👉 [View Dashboard](https://docs.google.com/spreadsheets/d/15wVc8RLtjS7PbA2DPH8zee7_ZyHlpGb2/edit?gid=327941851#gid=327941851)
 
-![Profitability Chart](<img width="504" height="306" alt="Profitability - 2024, 2023 and 2022" src="https://github.com/user-attachments/assets/a4391edb-a69d-4923-ab6e-e2a764e6463b" />
-)  
-![Performance Chart](<img width="471" height="313" alt="Performance - 2024, 2023 and 2022" src="https://github.com/user-attachments/assets/603a1486-5643-4f7c-ae79-547190314216" />
-)  
-![Growth Chart](<img width="504" height="291" alt="Financial Growth - 2024, 2023 and 2022" src="https://github.com/user-attachments/assets/f84c0504-4fc9-4edd-8d6b-bf79528217c8" />
-)  
-![Leverage Chart](<img width="471" height="291" alt="Leverage - 2024, 2023 and 2022" src="https://github.com/user-attachments/assets/763e428e-d782-4794-a603-af740e4cd4e8" />
-)  
+## Charts Preview
+
+![Profitability Chart](https://drive.google.com/file/d/1_55pu1FopGdwwgt6MKuZmnptSAPrWRrp/view?usp=drive_link)
+
+![Performance Chart](https://drive.google.com/file/d/1fgo6oK51gzdI7Z8ZChZoIGMKQSc5XCfK/view?usp=drive_link)
+
+![Growth Chart](https://drive.google.com/file/d/12JzOcoYf2FiZEh4VRn5w1vLw3ihw7RLe/view?usp=drive_link)
+
+![Leverage Chart](https://drive.google.com/file/d/1z0kHUPC8hG3s_efexTRkA45CuMKNcho8/view?usp=drive_link)
 
 ---
 
