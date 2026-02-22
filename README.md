@@ -11,7 +11,7 @@ This project highlights my skills in **financial analysis, Excel modeling, and d
 
 | File / Folder | Description |
 |---------------|-------------|
-| [Narrative Report]([your-link-here](https://docs.google.com/spreadsheets/d/15wVc8RLtjS7PbA2DPH8zee7_ZyHlpGb2/edit?gid=327941851#gid=327941851)) | Narrative report with detailed analysis, charts, and insights |
+| [Narrative Report]((https://docs.google.com/spreadsheets/d/15wVc8RLtjS7PbA2DPH8zee7_ZyHlpGb2/edit?gid=327941851#gid=327941851)) | Narrative report with detailed analysis, charts, and insights |
 | `Financial_Dashboard.xlsx` | Excel workbook with Overview sheet, calculations, and interactive dashboard |
 | `Raw_Data/` (optional) | CSV or Excel files with source financial statements |
 | `README.md` | This file |
